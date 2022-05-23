@@ -1,7 +1,7 @@
 # Bestla
 Arduino code for a programmable Remote Controlled car using the NRF24L01 library.
 
-![alt text](https://github.com/yuvrajjain2003/bestla/blob/main/images/Bestla.HEIC)
+![alt text](https://github.com/yuvrajjain2003/bestla/blob/main/images/Bestla.heic)
 
 This project was part of my APPL110 class at UNC-Chapel Hill in Spring 2022. The desgin consists of two separate components: the transmitter and receiver, which are, as the name suggests, responsible for transmitting signals through a joystick and receiving signals to guide the L298N Driver module to move in specified directions. 
 
